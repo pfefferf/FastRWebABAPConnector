@@ -1,2 +1,2 @@
 # FastRWebABAPConnector
-Connect ABAP with R via FastRWeb
+Connect ABAP with R via FastRWeb running on Rserve
