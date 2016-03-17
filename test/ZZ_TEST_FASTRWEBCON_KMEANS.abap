@@ -232,7 +232,7 @@ ENDDO.
 *  # load amap library for k-Means algorithm
 *  library(amap)
 *
-*  # convert input parameters in JSON to data frame
+*  # convert input parameters in JSON to list
 *  customerData <- fromJSON(customer)
 *  settingsData <- fromJSON(settings)
 *
